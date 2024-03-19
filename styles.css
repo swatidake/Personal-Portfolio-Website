@@ -1,0 +1,153 @@
+/* styles.css */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+ 
+  }
+  
+  header {
+    background-color: #161616;
+    color: #fff;
+    padding: 20px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  section {
+    padding: 100px 0;
+    text-align: center;
+  }
+  
+  .container {
+    max-width: 900px;
+    margin: 0 auto;
+  }
+#home{
+  background-color: #f4f4f4;
+  background-image: url(bg_img.jpg);
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  height: 100vh;
+}
+#home h1{
+  font-size: 3rem;
+  margin-bottom: 40px;
+}
+#home p{
+  font-size: 1.5rem;
+  margin-bottom: 40px;
+}
+  #about, #projects, #contact, #resume{
+    background-color: #f4f4f4;
+  }
+  
+  .project {
+    margin-bottom: 20px;
+    text-align: left;
+  }
+  .achivements{
+    margin-bottom: 20px;
+    text-align: left;
+  }
+  form {
+    display: flex;
+    flex-direction: column;
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  
+  label, input, textarea {
+    margin-bottom: 10px;
+    width: 100%;
+  }
+  
+  button {
+    width: 100%;
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #555;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    padding: 8px;
+    border-bottom: 1px solid #080808;
+    text-align: left;
+   
+  }
+  
+  th {
+    background-color: #282729;
+    color: rgb(245, 244, 244);
+  }
+ 
+
+  .resume-section {
+    padding: 50px;
+    background-color: #f8f9fa;
+  }
+  
+  .resume-heading {
+    font-size: 36px;
+    color: #0a0a0a;
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .resume-item {
+    margin-bottom: 30px;
+  }
+  
+  .resume-subheading {
+    font-size: 24px;
+    color: #222222;
+    margin-bottom: 10px;
+  }
+  
+  .resume-list {
+    list-style-type: none;
+    padding-left: 0;
+    text-align: left;
+  }
+   
+  .resume-contact {
+    font-size: 18px;
+    color: #0a0000;
+  }
+  
+  
+  

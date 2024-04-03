@@ -39,6 +39,7 @@ To experience my portfolio website:
 ## Contact Information
 
 For any inquiries, collaborations, or just to say hello, you can reach me at swatidake123@gmail.com. 
+
 You can also find me on:
 
 - [GitHub](https://github.com/swatidake)

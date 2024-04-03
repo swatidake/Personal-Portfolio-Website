@@ -26,7 +26,7 @@ My portfolio website is built using the following technologies:
 
 To experience my portfolio website:
 
-1. Open the `index.html` file in your web browser.
+1. Open the [index.html](index.html) file in your web browser.
 2. Navigate through different sections using the navigation menu.
 3. Feel free to explore, engage, and get in touch with me!
 
@@ -38,7 +38,8 @@ To experience my portfolio website:
 
 ## Contact Information
 
-For any inquiries, collaborations, or just to say hello, you can reach me at swatidake123@gmail.com. You can also find me on:
+For any inquiries, collaborations, or just to say hello, you can reach me at swatidake123@gmail.com. 
+You can also find me on:
 
 - [GitHub](https://github.com/swatidake)
 - [LinkedIn](https://www.linkedin.com/in/swati-dake-16a6001b9/)

@@ -46,7 +46,3 @@ You can also find me on:
 - [LinkedIn](https://www.linkedin.com/in/swati-dake-16a6001b9/)
 - [Instagram](https://www.instagram.com/swatidake_05/)
 
-## License
-
-This portfolio website is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
